@@ -60,7 +60,7 @@ This extension ports popular Notepad++ keyboard shortcuts to Visual Studio Code.
 ## Recommended extensions.
 
 ### Bookmarks
-Looking for Bookmarks via the F2 keys? Hi! Install the Bookmark extension and map the commands to F2 keys to get similar bookmarks functionality: https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks
+Looking for Bookmarks via the F2 keys? Hi! Install the Bookmark extension and map the commands to F2 keys to get similar bookmarks functionality from this [link](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks/).
 
 
 ## How do I contribute a keyboard shortcut?
@@ -85,8 +85,7 @@ You can read more about how to contribute keybindings in extensions in the [offi
 
 ## Mapping between VS Code and Notepad++
 
-See https://docs.google.com/spreadsheets/d/1CUV0ZZHcI8NM7a5YiPbsPrKQRR59MY5n24qRza6UvNs/edit?usp=sharing
-
+See this [link](https://docs.google.com/spreadsheets/d/1CUV0ZZHcI8NM7a5YiPbsPrKQRR59MY5n24qRza6UvNs/edit?usp=sharing/)
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
